@@ -9,7 +9,11 @@
 
 ## Providers
 
-No providers.
+| Name | Version | Terraform |
+|------|---------|---------|
+| <a name="aws"></a> [aws](#requirement\_aws) | 5.40.0 |https://registry.terraform.io/providers/hashicorp/aws/latest |
+| <a name="helm"></a> [helm](#requirement\_helm) | 2.12.1 |https://registry.terraform.io/providers/hashicorp/helm/latest |
+| <a name="kubernetes"></a> [kubernetes](#requirement\_kubernetes) | 2.27.0 |https://registry.terraform.io/providers/hashicorp/kubernetes/latest |
 
 ## Modules
 
